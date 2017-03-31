@@ -1,3 +1,7 @@
 /.svn
 /wb_2b742f43c7b74de4.txt
 /.gitignore
+.DS_Store
+.idea/*
+.buildpath
+.project
